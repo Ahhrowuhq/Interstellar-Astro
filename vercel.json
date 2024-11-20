@@ -13,6 +13,6 @@
     }
   ],
   "env": {
-    "PORT": "8080"  // Replace with any environment variables your app needs
+    "PORT": "8080"
   }
 }
